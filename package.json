@@ -1,18 +1,18 @@
 {
   "name": "sa20-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "เว็บlottooneดีไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"เว็บlottooneดีไหม",
-"รวมเว็บหวย",
-"lottovip สมัครสมาชิก",
-"เว็บหวยรัฐบาลออนไลน์",
-"ราคาจ่าย lottovip"
-],
+  "version": "0.2.0",
+  "description": "เว็บlottooneดีไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "เว็บlottooneดีไหม",
+    "รวมเว็บหวย",
+    "lottovip สมัครสมาชิก",
+    "เว็บหวยรัฐบาลออนไลน์",
+    "ราคาจ่าย lottovip"
+  ],
   "repository": "https://github.com/setteebet/sa20-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
